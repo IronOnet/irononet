@@ -49,15 +49,15 @@ Here are some ideas to get you started:
 
 ### Other Tools: 
 
-    - Kubernetes & Docker 
-    - CI/CD with Github actions 
-    - and many others 
+    ⚡ Kubernetes & Docker 
+    ⚡ CI/CD with Github actions 
+    ⚡ and many others... 
 
 
 ### Ask me about: 
 
-    - Distributed systems 
-    - Fullstack development 
-    - Crypto-currencies 
-    - Blockchain 
-    - AI & Machine learning 
+    ⚡ Distributed systems 
+    ⚡ Fullstack development 
+    ⚡ Crypto-currencies 
+    ⚡ Blockchain 
+    ⚡ AI & Machine learning 
