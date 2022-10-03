@@ -17,33 +17,34 @@ Here are some ideas to get you started:
 
 ### Tech Stack 
 
-    - Languages & Frameworks: Python (Django, Django restframework), Go (Gin-Gonic), Javascript&Typescript (React.js, Next.js), HTML & CSS (Tailwindcss)
-    - Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges 
+    ⚡ Languages & Frameworks: Python (Django, Django restframework), Go (Gin-Gonic), Javascript&Typescript (React.js, Next.js), HTML & CSS (Tailwindcss)
+    ⚡ Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges 
 
 
 ### Portfolio 
 
-    - Blockchain-Lite (https://github.com/irononet/blockchain-lite): A small blockchain node built with go 
+    ⚡ [Blockchain-Lite] (https://github.com/irononet/blockchain-lite): A small blockchain node built with go 
   
-    - Inviktus-Koin (https://github.com/irononet/inviktus-koin): A simple ERC-20 token designed with solidity and brownie for deployment 
+    ⚡ [Inviktus-Koin] (https://github.com/irononet/inviktus-koin): A simple ERC-20 token designed with solidity and brownie for deployment 
 
-    - Calabasas (https://github.com/irononet/calabasas): A photo sharing web app built with Typescript, Tailwind, and nodejs
+    ⚡ [Calabasas] (https://github.com/irononet/calabasas): A photo sharing web app built with Typescript, Tailwind, and nodejs
 
-    - Pythagram (https://github.com/irononet/pystagram): A photo sharing web app backend built with python and django 
+    ⚡ [Pythagram] (https://github.com/irononet/pystagram): A photo sharing web app backend built with python and django 
 
-    - Kootabase (https://github.com/irononet/kootabase_web): A crypto-exchange backend api built with python and django 
+    ⚡ [Kootabase] (https://github.com/irononet/kootabase_web): A crypto-exchange backend api built with python and django 
 
-    - Go-exchange (https://github.com/irononet/go-exchange): A crypto-exchange backend api built with Golang
+    ⚡ [Go-exchange] (https://github.com/irononet/go-exchange): A crypto-exchange backend api built with Golang
 
 
 ### Side Opensource projects: 
 
-    - Tesserkat (https://github.com/tasrakat-labs/tesserkat): A fully fledged proof of work blockchain node built with Go
+    ⚡ [Tesserkat] (https://github.com/tasrakat-labs/tesserkat): A fully fledged proof of work blockchain node built with Go
 
 
 ### Recent Experience: 
 
-    - Backend-engineer at Bitkoota: building a centralized crypto-currency in Africa 
+    ⚡ Backend-engineer at Bitkoota: building a centralized crypto-currency in Africa  
+    ⚡ Fullstack-engineer at Kinflix: An online movie streaming startup based in Kinshasa
 
 
 ### Other Tools: 
