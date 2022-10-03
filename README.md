@@ -1,4 +1,4 @@
-### Hi there, I'm Arnaud Wanet Fullstack software engineer 👋
+### Hi there, I'm Arnaud Wanet and I'm a Freelance Fullstack software engineer 👋
 
 <!--
 **IronOnet/irononet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
