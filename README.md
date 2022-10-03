@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
     ⚡ Kubernetes & Docker 
     ⚡ CI/CD with Github actions 
+    ⚡ Linux
     ⚡ and many others... 
 
 
