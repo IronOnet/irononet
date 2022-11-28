@@ -62,3 +62,5 @@ Here are some ideas to get you started:
     ⚡ Crypto-currencies 
     ⚡ Blockchain 
     ⚡ AI & Machine learning 
+    
+### Other Notable Projects
