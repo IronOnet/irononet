@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Tech Stack 
 
-    ⚡ Languages & Frameworks: Python (Django, Django restframework), Go (Gin-Gonic), Javascript&Typescript (React.js, Next.js), HTML & CSS (Tailwindcss)
-    ⚡ Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges 
+    ⚡ Languages & Frameworks: Python (Django, Django restframework, Flask), Golang, Javascript & Typescript (React.js, Next.js), HTML & CSS (Tailwindcss)
+    ⚡ Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges, Distributed Systems, AI
 
 
 ### Portfolio 
