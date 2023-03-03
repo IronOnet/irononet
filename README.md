@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Recent Experience: 
 
-    ⚡ Backend-engineer at Bitkoota: building a centralized crypto-currency in Africa  
+    ⚡ Backend-engineer at Bitkoota: building the largest centralized crypto-currency exchange in Africa  
     ⚡ Fullstack-engineer at Kinflix: An online movie streaming startup based in Kinshasa
 
 
