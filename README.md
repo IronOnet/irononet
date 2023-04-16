@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 
 ### Side Opensource projects: 
 
-    ⚡ [Tesserkat](https://github.com/tasrakat-labs/tesserkat): A fully fledged proof of work blockchain node built with Go
+    ⚡ [Go-Exchange](https://github.com/irononet/go-exchange): A fully functional crypto exchange backend built with Go inspired from (Peatio)[https://github.com/opendax/peatio)
 
 
 ### Recent Experience: 
 
-    ⚡ Backend-engineer at Bitkoota: building the largest centralized crypto-currency exchange in Africa  
-    ⚡ Fullstack-engineer at Kinflix: An online movie streaming startup based in Kinshasa
+    ⚡ Backend-engineer at Compagnie Financière du Congo: building Golang-based APIs for a large scale payment processing company.
+    ⚡ Bitkoota: Architecting and building the largest Congolese crypto currency exchange.
 
 
 ### Other Tools: 
