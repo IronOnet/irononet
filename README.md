@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 ### Side Opensource projects: 
 
     ⚡ [Go-Exchange](https://github.com/irononet/go-exchange): A fully functional crypto exchange backend built with Go inspired from (Peatio)[https://github.com/opendax/peatio)
+    ⚡ [Go-tasker](https://github.com/irononet/go-tasker): A CLI tasker manager app
 
 
 ### Recent Experience: 
-
-    ⚡ Backend-engineer at Compagnie Financière du Congo: building Golang-based APIs for a large scale payment processing company.
+    ⚡ Axialys France: Maintaining and refactoring python REST APIs.
+    ⚡ KDA Software: Backend software engineer consultant.
+    ⚡ Backend-engineer at Compagnie Financière du Congo: building and maintinging REST APIs for a large scale payment processing company.
     ⚡ Bitkoota: Architecting and building the largest Congolese crypto currency exchange.
 
 
