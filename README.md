@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack 
+### Tech Stack & Other skills
 
-    ⚡ Languages & Frameworks: Python (Django,  Flask), Golang (gin-gonic, gorrilla), Javascript & Typescript (React.js, Next.js), HTML & CSS (Tailwindcss)
+    ⚡ Languages & Frameworks: Golang, Python, Javascript (React.js)
     ⚡ Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges, Distributed Systems, AI
+    ⚡ Skills: Architecture, Databases, Microservices, API design, Refactoring
 
 
 ### Portfolio 
