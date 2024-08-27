@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Tech Stack & Other skills
 
-    ⚡ Languages & Frameworks: Golang, Python, Javascript (React.js)
-    ⚡ Interests: Blockchain, cryptocurrencies, payment systems, crypto-exchanges, Distributed Systems, AI
-    ⚡ Skills: Architecture, Databases, Microservices, API design, Refactoring
+    ⚡ Languages : Golang, Python, Javascript (Typescript)
+    ⚡ Interests: Distributed Systems, Artificial General Inteligence
+    ⚡ Skills: Architecture, Databases, Microservices, APIs, Machine Learning
 
 
 ### Portfolio 
