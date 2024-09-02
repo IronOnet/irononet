@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 
 ### Recent Experience: 
+    ⚡ Symiar: Building Bamboo, the Amazon of real esate.
     ⚡ Axialys France: Maintaining and refactoring internal REST APIs and other microservices.
     ⚡ KDA Software: Backend software engineer consultant.
-    ⚡ Backend-engineer at Compagnie Financière du Congo: building and maintinging REST APIs for a large scale payment processing company.
     ⚡ Bitkoota: Architecting and building the largest Congolese crypto currency exchange.
 
 
